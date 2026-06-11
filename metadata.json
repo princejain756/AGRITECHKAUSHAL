@@ -1,0 +1,6 @@
+{
+  "name": "Vera Earth",
+  "description": "Premium, futuristic precision agriculture and smart climate-intelligence platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
